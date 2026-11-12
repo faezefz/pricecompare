@@ -36,7 +36,7 @@ pluggable data sources.
 ## Install and run
 
 ```bash
-git clone https://github.com/<your-username>/pricecompare.git
+git clone https://github.com/faezefz/pricecompare.git
 cd pricecompare
 python -m venv .venv
 # Windows: .venv\Scripts\activate    Mac/Linux: source .venv/bin/activate
