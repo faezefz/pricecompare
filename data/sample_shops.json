@@ -1,0 +1,29 @@
+{
+  "_note": "All shops, products and prices in this file are made up for testing.",
+  "shops": [
+    {
+      "name": "TechCorner",
+      "products": [
+        {"product": "Wireless Headphones X200", "category": "electronics", "price": 79.99, "shipping": 4.95, "in_stock": true, "url": "https://example.com/techcorner/x200"},
+        {"product": "USB-C Laptop Charger 65W", "category": "electronics", "price": 34.50, "shipping": 0, "in_stock": true, "url": "https://example.com/techcorner/charger65"},
+        {"product": "Drip Coffee Maker 1.2L", "category": "kitchen", "price": 49.00, "shipping": 6.50, "in_stock": false, "url": "https://example.com/techcorner/coffee"}
+      ]
+    },
+    {
+      "name": "BudgetBazaar",
+      "products": [
+        {"product": "Wireless Headphones X200", "category": "electronics", "price": 74.00, "shipping": 9.99, "in_stock": true, "url": "https://example.com/budgetbazaar/x200"},
+        {"product": "Drip Coffee Maker 1.2L", "category": "kitchen", "price": 44.95, "shipping": 3.00, "in_stock": true, "url": "https://example.com/budgetbazaar/coffee"},
+        {"product": "Running Shoes Lite", "category": "sport", "price": 59.99, "shipping": 0, "in_stock": true, "url": "https://example.com/budgetbazaar/shoes"}
+      ]
+    },
+    {
+      "name": "QuickShop",
+      "products": [
+        {"product": "Wireless Headphones X200", "category": "electronics", "price": 82.00, "shipping": 0, "in_stock": true, "url": "https://example.com/quickshop/x200"},
+        {"product": "USB-C Laptop Charger 65W", "category": "electronics", "price": 29.99, "shipping": 4.99, "in_stock": false, "url": "https://example.com/quickshop/charger65"},
+        {"product": "Running Shoes Lite", "category": "sport", "price": 54.50, "shipping": 5.95, "in_stock": true, "url": "https://example.com/quickshop/shoes"}
+      ]
+    }
+  ]
+}
